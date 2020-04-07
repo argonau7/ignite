@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>This is a tab title</title>
+</head>
+
+
+<body>
+<h1>Hello World</h1>
+
+<h2> I am Lukas </h2>
+
+<p> My hobbies include music, playing and learning about decentralised technologies, technology, science, European politics, hunting and a few other things</p>
+<span> I also enjoy spending time with my girlfiriend and our little son. He is a little rascal</span>
+
+<div>
+
+<h3> With my son I enjoy: </h3>
+<ul>
+    <li> Playing duplo </li>
+    <li> Singing </li>
+</ul>
+
+<img src="IMG-20200406-WA0040.jpg"/>
+
+</div>
+
+<h4> With my girlfiriend I enjoy: </h4>
+<ol>
+    <li> Cooking and eating </li>
+    <li> Playing badminton </li>
+</ol>
+
+<a href="https://www.extremetech.com/wp-content/uploads/2016/12/ngc6357.jpg"> Here is a picture of NGC6357 </a>
+
+<div>
+<input type="What is your age?" placeholder="Your age" />
+</div>
+</body>
+
+</html>
