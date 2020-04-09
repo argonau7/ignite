@@ -7,3 +7,9 @@ h1 {
     font-size: large;
     color: seagreen;
 }
+
+div
+{
+border-color: yellow;
+border-radius: 10px;
+}
