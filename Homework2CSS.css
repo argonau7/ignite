@@ -13,3 +13,6 @@ div
 border-color: yellow;
 border-radius: 10px;
 }
+img {
+    height: auto; width: 1200px;
+}
